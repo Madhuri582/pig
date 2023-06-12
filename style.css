@@ -1,0 +1,99 @@
+.ear {
+    width: 60px;
+    height: 80px;
+    background-color: #FFC0CB;
+    border-radius: 60%;
+    position: absolute;
+    top: 2px;
+    margin: 300px;
+    margin-left: 50%;
+    margin-right: 40%;
+    
+}
+.left{
+    left:-10px;
+    border: 2px solid black;
+}
+.right{
+    right:-10px;
+    border: 2px solid black;
+}
+.pig-face {
+    width: 150px;
+    height: 150px;
+    border: 2px solid black;
+    background-color: #FFC0CB;
+    border-radius: 50%;
+    position: relative;
+    margin-top: 20%;
+    margin-left: 50%;
+}
+.reye{ 
+
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 35px;
+    margin-left: 30px;
+}
+.leye{ 
+
+    width: 35px;
+    height: 35px;
+    background-color: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 35px;
+    margin-left: 85px;
+}
+
+
+.snout {
+    width: 70px;
+    height: 40px;
+    background-color: #fd0707;
+    border-radius: 10%;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+    margin-top: 50px;
+    margin-left: 10px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+#lnot{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top:93px;
+    margin-left: 50px;
+}
+#rnot{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top:93px;
+    margin-left: 90px;
+}
+
+.eye {
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
